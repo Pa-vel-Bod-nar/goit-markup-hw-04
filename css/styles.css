@@ -533,6 +533,7 @@ margin-bottom: 8px;
   .footer .container {
     display: flex;
     align-items: baseline;
+    margin-right: 120px;
    
   }
 
@@ -565,6 +566,7 @@ margin-bottom: 8px;
       font: 500 16px / 1.5 "Roboto", sans-serif;
 letter-spacing: 0.02em;
 color: #fff;
+margin-bottom: 16px;
     }
 
   .smi-wrapper-ftr {
